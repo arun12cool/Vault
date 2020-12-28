@@ -47,6 +47,6 @@ echo "Unable to sign the key, It could be due to the following reasons :
 or
 2) Timeout : Try after a while , if it fails report to cloudinfra
 or
-3) Vault is unreachable , "telnet vault-cloudinfra.freshpo.com 8200", if it fails reach out to cloudinfra"
+3) Vault is unreachable , "telnet vault-cloudinfram 8200", if it fails reach out to cloudinfra"
 
 fi
